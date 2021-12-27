@@ -39,7 +39,7 @@
  <sub><b>Gabriel Costa</b></sub></a> <a href="https://github.com/GabrielCS02" title="GabrielCosta">🚀</a>
  <br />
  
-[![Linkedin Badge](https://img.shields.io/badge/-Gabriel-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gabrielcs02/)](https://www.linkedin.com/in/yasmim-marques-santos/) 
+[![Linkedin Badge](https://img.shields.io/badge/-Gabriel-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gabrielcs02/)](https://www.linkedin.com/in/gabrielcs02/) 
 [![Gmail Badge](https://img.shields.io/badge/-gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gacosil0204@gmail.com)](mailto:gacosil0204@gmail.com)
 	  
 </tr>
